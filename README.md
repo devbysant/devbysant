@@ -40,5 +40,5 @@ I build fast, clean web and mobile applications for startups and businesses.
 
 - ✅ Remote work — async friendly
 - ✅ US / UK / Australia timezone compatible  
-- ✅ Open to short & long term projects## Hi there 👋
+- ✅ Open to short & long term projects
 
