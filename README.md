@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey, I'm Sant 👋  
+### Full Stack Developer | React • Node.js • MongoDB • React Native
 
-<!--
-**devbysant/devbysant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, clean web and mobile applications for startups and businesses.  
+4+ years of hands-on experience shipping real production apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, HTML, CSS, JavaScript  
+**Mobile:** React Native  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB  
+**Cloud:** AWS, Azure  
+**Tools:** Git, GitHub, Postman  
+
+---
+
+## 🚀 What I Build
+
+- ⚡ Full stack web (MERN)
+- 📱 Cross-platform mobile apps (React Native)
+- 🔌 REST APIs and backend systems
+- 🌐 Business websites & landing pages
+
+---
+
+## 📂 Featured Projects
+
+| Project | Tech | Status |
+|---------|------|--------|
+| 🔜 Coming soon | MERN | - |
+| 🔜 Coming soon | React Native | - |
+| 🔜 Coming soon | HTML/CSS | - |
+
+---
+
+## 📫 Available for Freelance
+
+- ✅ Remote work — async friendly
+- ✅ US / UK / Australia timezone compatible  
+- ✅ Open to short & long term projects## Hi there 👋
+
